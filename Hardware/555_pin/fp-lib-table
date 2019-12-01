@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 555_pin_footprints)(type KiCad)(uri C:/Users/sgmustadio/Documents/GitHub/555_pin/Hardware/libraries/555_pin_footprints.pretty)(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri C:/Users/sgmustadio/Documents/GitHub/555_pin/Hardware/libraries/digikey-footprints.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name 555_pin)(type Legacy)(uri C:/Users/sgmustadio/Documents/GitHub/555_pin/Hardware/libraries/555_pin_symbols/555_pin.lib)(options "")(descr ""))
+  (lib (name dk_Battery-Holders-Clips-Contacts)(type Legacy)(uri C:/Users/sgmustadio/Documents/GitHub/555_pin/Hardware/libraries/digikey-symbols/dk_Battery-Holders-Clips-Contacts.lib)(options "")(descr ""))
+  (lib (name dk_Slide-Switches)(type Legacy)(uri C:/Users/sgmustadio/Documents/GitHub/555_pin/Hardware/libraries/digikey-symbols/dk_Slide-Switches.lib)(options "")(descr ""))
+)
